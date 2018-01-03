@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+*.sw[a-z]
+*.sql
+dist
+*.egg-info
+VERSION.txt
+__python__
